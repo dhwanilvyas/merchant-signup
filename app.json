@@ -1,0 +1,14 @@
+{
+   "expo": {
+    "name": "Merchant signup",
+    "version": "1.0.0",
+    "slug": "merchant-signup",
+    "sdkVersion": "22.0.0",
+    "ios": {
+      "bundleIdentifier": "com.company.merchantsignup"
+    },
+    "android": {
+      "package": "com.company.merchantsignup"
+    }
+   }
+ }
